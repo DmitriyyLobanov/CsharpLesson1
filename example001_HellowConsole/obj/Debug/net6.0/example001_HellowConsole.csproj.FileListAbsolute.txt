@@ -1,0 +1,15 @@
+C:\Users\Zver\Desktop\GeekBrains\C#\introductionC#\lesson1\example001_HellowConsole\bin\Debug\net6.0\example001_HellowConsole.exe
+C:\Users\Zver\Desktop\GeekBrains\C#\introductionC#\lesson1\example001_HellowConsole\bin\Debug\net6.0\example001_HellowConsole.deps.json
+C:\Users\Zver\Desktop\GeekBrains\C#\introductionC#\lesson1\example001_HellowConsole\bin\Debug\net6.0\example001_HellowConsole.runtimeconfig.json
+C:\Users\Zver\Desktop\GeekBrains\C#\introductionC#\lesson1\example001_HellowConsole\bin\Debug\net6.0\example001_HellowConsole.dll
+C:\Users\Zver\Desktop\GeekBrains\C#\introductionC#\lesson1\example001_HellowConsole\bin\Debug\net6.0\ref\example001_HellowConsole.dll
+C:\Users\Zver\Desktop\GeekBrains\C#\introductionC#\lesson1\example001_HellowConsole\bin\Debug\net6.0\example001_HellowConsole.pdb
+C:\Users\Zver\Desktop\GeekBrains\C#\introductionC#\lesson1\example001_HellowConsole\obj\Debug\net6.0\example001_HellowConsole.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\GeekBrains\C#\introductionC#\lesson1\example001_HellowConsole\obj\Debug\net6.0\example001_HellowConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\GeekBrains\C#\introductionC#\lesson1\example001_HellowConsole\obj\Debug\net6.0\example001_HellowConsole.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\GeekBrains\C#\introductionC#\lesson1\example001_HellowConsole\obj\Debug\net6.0\example001_HellowConsole.AssemblyInfo.cs
+C:\Users\Zver\Desktop\GeekBrains\C#\introductionC#\lesson1\example001_HellowConsole\obj\Debug\net6.0\example001_HellowConsole.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\GeekBrains\C#\introductionC#\lesson1\example001_HellowConsole\obj\Debug\net6.0\example001_HellowConsole.dll
+C:\Users\Zver\Desktop\GeekBrains\C#\introductionC#\lesson1\example001_HellowConsole\obj\Debug\net6.0\ref\example001_HellowConsole.dll
+C:\Users\Zver\Desktop\GeekBrains\C#\introductionC#\lesson1\example001_HellowConsole\obj\Debug\net6.0\example001_HellowConsole.pdb
+C:\Users\Zver\Desktop\GeekBrains\C#\introductionC#\lesson1\example001_HellowConsole\obj\Debug\net6.0\example001_HellowConsole.genruntimeconfig.cache
